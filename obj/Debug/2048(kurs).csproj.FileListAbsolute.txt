@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\2048(kurs)\bin\Debug\2048(kurs).exe.config
+C:\Users\Пользователь\source\repos\2048(kurs)\bin\Debug\2048(kurs).exe
+C:\Users\Пользователь\source\repos\2048(kurs)\bin\Debug\2048(kurs).pdb
+C:\Users\Пользователь\source\repos\2048(kurs)\obj\Debug\2048(kurs).csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\2048(kurs)\obj\Debug\_2048_kurs_.Form1.resources
+C:\Users\Пользователь\source\repos\2048(kurs)\obj\Debug\_2048_kurs_.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\2048(kurs)\obj\Debug\2048(kurs).csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\2048(kurs)\obj\Debug\2048(kurs).csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\2048(kurs)\obj\Debug\2048(kurs).exe
+C:\Users\Пользователь\source\repos\2048(kurs)\obj\Debug\2048(kurs).pdb
